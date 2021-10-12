@@ -89,6 +89,7 @@ body {
   .marketing .col-lg-4 {
     margin-bottom: 1.5rem;
     text-align: center;
+    margin-top: 32rem;
   }
   .marketing h2 {
     font-weight: 400;
@@ -97,7 +98,7 @@ body {
     margin-right: .75rem;
     margin-left: .75rem;
   }
-  .bd-placeholder-img rounded-circle {
+  .market {
     margin-top: 100px;
   }
   
